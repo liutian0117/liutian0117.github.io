@@ -2,7 +2,7 @@
 title: Leo Ten
 subtitle: Death is like the wind,always by my side.
 welcome_message: <a href="https://github.com/liutian0117" target="_blank">Welcome to my den.</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: 嗨，我是柳天。ios开发者，现居大连.商业合作请咨询<a href="https://weibo.com/u/5953637402" target="_blank">女朋友</a>。
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://www.leoten.xyz"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: white
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/liutian0117'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,7 +37,7 @@ comment:
     
 # Social
 social:
-    weibo: 2491643023?topnav=1&wvr=6&topsug=1
+    weibo: tenleo
     github: liutian0117
     twitter: LeoHTBL
     gplus: 104709056083298303849
