@@ -1,12 +1,12 @@
 # Basic
 title: Leo Ten
 subtitle: Death is like the wind,always by my side.
-welcome_message: My honey's weibo:<br> <a href="https://weibo.com/u/5953637402" target="_blank">@三月我守口如瓶</a>
-description: 嗨，我是柳天。<br>swift菜鸟，现居大连。
+welcome_message: <a href="https://github.com/liutian0117" target="_blank">Welcome to my den.</a>
+description: 嗨，我是柳天。<br>ios开发者，现居大连。<br> 商业合作请咨询女朋友。@三月我守口如瓶(weibo)
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://www.leoten.xyz"
-a
+
 permalink: /:year/:month/:title/
 
 # Format
