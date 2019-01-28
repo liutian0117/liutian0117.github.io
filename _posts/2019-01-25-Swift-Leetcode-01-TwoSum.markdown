@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Swift - Leetcode - 01 - Two Sum
 date:  2019-01-25 17：20：44.000000000 +09：00
@@ -26,7 +26,7 @@ date:  2019-01-25 17：20：44.000000000 +09：00
 
 `一、暴力法`
 
-```angelscript
+{% highlight ruby %}
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     var array = [0 ,0]
     for x in 0..<nums.count {
@@ -40,12 +40,11 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     }
     return array
 }
-
-```
+{% endhighlight %}
 
 `二、两遍哈希表`
 
-```smali
+{% endhighlight %}
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     var dic1 = [Int:Int]()
     for x in 0..<nums.count {
@@ -61,12 +60,11 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     let array = [0, 0]
     return array
 }
-
-```
+{% endhighlight %}
 
 `三、一遍哈希表`
 
-```smali
+{% endhighlight %}
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     var dic1 = [Int:Int]()
     for x in 0..<nums.count {
@@ -80,5 +78,5 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     let array = [0, 0]
     return array
 }
-```
+{% endhighlight %}
 
