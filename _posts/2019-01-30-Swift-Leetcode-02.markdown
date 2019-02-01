@@ -15,12 +15,9 @@ date: 2019-01-30 10:20:20.000000000 +09:00
 您可以假设除了数字 0 之外，这两个数都不会以 0 开头。
 
 **示例:**
-{% endhighlight %}
 输入： (2 -> 4 -> 3) + (5 -> 6 -> 4)
 输出： 7 -> 0 -> 8
 原因： 342 + 465 = 807
-{% endhighlight %}
-
 
 ---
 
@@ -45,7 +42,7 @@ date: 2019-01-30 10:20:20.000000000 +09:00
 
 `官方题解Swift实现`
 
-{% endhighlight %}
+{% highlight ruby %}
 func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
     let dummyHead: ListNode = ListNode.init(0)
     var p: ListNode? = l1
