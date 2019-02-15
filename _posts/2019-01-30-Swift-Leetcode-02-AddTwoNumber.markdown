@@ -42,7 +42,6 @@ date: 2019-01-30 10:20:20.000000000 +09:00
 
 `官方题解Swift实现`
 
-{% highlight ruby %}
 func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
     let dummyHead: ListNode = ListNode.init(0)
     var p: ListNode? = l1
@@ -68,6 +67,5 @@ func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
     }
     return dummyHead.next
 }
-{% endhighlight %}
 
 

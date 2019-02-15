@@ -26,7 +26,6 @@ date: 2019-01-25 17:20:44.000000000 +09:00
 
 `一、暴力法`
 
-{% highlight ruby %}
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     var array = [0 ,0]
     for x in 0..<nums.count {
@@ -40,11 +39,9 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     }
     return array
 }
-{% endhighlight %}
 
 `二、两遍哈希表`
 
-{% endhighlight %}
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     var dic1 = [Int:Int]()
     for x in 0..<nums.count {
@@ -60,11 +57,9 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     let array = [0, 0]
     return array
 }
-{% endhighlight %}
 
 `三、一遍哈希表`
 
-{% endhighlight %}
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     var dic1 = [Int:Int]()
     for x in 0..<nums.count {
@@ -78,5 +73,4 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     let array = [0, 0]
     return array
 }
-{% endhighlight %}
 
