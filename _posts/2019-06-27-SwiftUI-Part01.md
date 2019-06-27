@@ -51,35 +51,31 @@ title: SwiftUI Part01 Notes
 
 ##### 创建工程，☑️Use SwiftUI
 
-![](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnclg992j30tg0xcwg7.jpg)
+![](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnclg992j30tg0xcwg7.jpg)
 
 ##### 点击Resume在画布中恢复预览
 
-![](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fr34fvwkj30tg0xcwf0.jpg)
+![](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fr34fvwkj30tg0xcwf0.jpg)
 
 ##### CircleImage 部分代码
 
-![image-20190627134222438](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnudjhh2j318h0h947p.jpg)
+![image-20190627134222438](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnudjhh2j318h0h947p.jpg)
 
 ##### MapView 部分代码
 
-![image-20190627134248780](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnutyd8xj317x0npqge.jpg)
+![image-20190627134248780](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnutyd8xj317x0npqge.jpg)
 
 ##### ContentView部分代码
 
-![006tNc79ly1g4fnctr0juj314e0oswl3](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnctr0juj314e0oswl3.jpg)
+![006tNc79ly1g4fnctr0juj314e0oswl3](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnctr0juj314e0oswl3.jpg)
 
 ##### 点击Inspect展开类似xib文件里的可视化编辑，代码也会做出相应的更改
 
-![image-20190627114742038](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fncv62u6j30di0ky79z.jpg)
-
-![image-20190627115442305](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fncy098pj307o0893zs.jpg)
+![image-20190627114742038](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fncv62u6j30di0ky79z.jpg)
 
 ##### 例子：Repeat
 
-![image-20190627133131186](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnj339wwj30bu09cwhr.jpg)
-
-![image-20190627115918756](2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fndeg6ooj310p07gjw0.jpg)
+![image-20190627133131186](/assets/images/2019-06-27-SwiftUI-Part01.assets/006tNc79ly1g4fnj339wwj30bu09cwhr.jpg)
 
 ### 总结
 
